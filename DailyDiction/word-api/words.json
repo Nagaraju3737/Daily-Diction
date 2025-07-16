@@ -1,0 +1,86 @@
+[
+  {
+    "word": "Serendipity",
+    "synonyms": ["fluke", "chance", "fortune"],
+    "antonyms": ["misfortune"],
+    "example": "A fortunate stroke of serendipity."
+  },
+  {
+    "word": "Elated",
+    "synonyms": ["overjoyed", "ecstatic", "delighted"],
+    "antonyms": ["depressed", "sad"],
+    "example": "She was elated at the news."
+  },
+  {
+    "word": "Benevolent",
+    "synonyms": ["kind", "charitable", "generous"],
+    "antonyms": ["malevolent", "unkind"],
+    "example": "He was a benevolent old man and wouldn't hurt a fly."
+  },
+  {
+    "word": "Lucid",
+    "synonyms": ["clear", "intelligible", "comprehensible"],
+    "antonyms": ["confused", "obscure"],
+    "example": "She gave a lucid presentation."
+  },
+  {
+    "word": "Arduous",
+    "synonyms": ["difficult", "strenuous", "laborious"],
+    "antonyms": ["easy", "effortless"],
+    "example": "Climbing the mountain was an arduous task."
+  },
+  {
+    "word": "Resilient",
+    "synonyms": ["strong", "tough", "flexible"],
+    "antonyms": ["fragile", "vulnerable", "weak"],
+    "example": "Children can be remarkably resilient after facing hardships."
+  },
+  {
+    "word": "Serene",
+    "synonyms": ["calm", "peaceful", "tranquil"],
+    "antonyms": ["chaotic", "noisy", "agitated"],
+    "example": "The lake was serene in the early morning light."
+  },
+  {
+    "word": "Candid",
+    "synonyms": ["honest", "frank", "blunt"],
+    "antonyms": ["deceitful", "dishonest", "secretive"],
+    "example": "He was candid about his mistakes."
+  },
+  {
+    "word": "Diligent",
+    "synonyms": ["hardworking", "industrious", "persistent"],
+    "antonyms": ["lazy", "negligent", "careless"],
+    "example": "She is a diligent student who always submits her work on time."
+  },
+  {
+    "word": "Frugal",
+    "synonyms": ["economical", "thrifty", "prudent"],
+    "antonyms": ["extravagant", "wasteful", "lavish"],
+    "example": "He is very frugal with his money."
+  },
+  {
+    "word": "Hostile",
+    "synonyms": ["unfriendly", "aggressive", "antagonistic"],
+    "antonyms": ["friendly", "kind", "welcoming"],
+    "example": "The manager faced a hostile crowd after the announcement."
+  },
+  {
+    "word": "Vivid",
+    "synonyms": ["bright", "intense", "clear"],
+    "antonyms": ["dull", "blurry", "faded"],
+    "example": "I still have vivid memories of my childhood."
+  },
+  {
+    "word": "Ambiguous",
+    "synonyms": ["unclear", "vague", "equivocal"],
+    "antonyms": ["clear", "obvious", "explicit"],
+    "example": "His answer was ambiguous and didn't really help."
+  },
+  {
+    "word": "Timid",
+    "synonyms": ["shy", "nervous", "hesitant"],
+    "antonyms": ["confident", "bold", "brave"],
+    "example": "The timid child hid behind his mother."
+  }
+] 
