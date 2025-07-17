@@ -2,7 +2,7 @@ const cron = require('node-cron');
 const path = require('path');
 require('./server');
 const { sendDailyEmails } = require('./sendDailyEmails');
-cron.schedule('0 9 * * *', async () => {
+cron.schedule('30 3 * * *', async () => {
   console.log('Running scheduled daily email');
   await sendDailyEmails();
 });
