@@ -69,7 +69,7 @@ async function sendDailyReminder(email) {
   const mailOptions = {
     from: emailUser,
     to: email,
-    subject: '🌟 New Word of the Day Available!',
+    subject: 'New Word of the Day Available!',
     html: `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">
         <div style="background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
@@ -86,8 +86,8 @@ async function sendDailyReminder(email) {
           </div>
           
           <div style="text-align: center; margin: 30px 0;">
-            <a href="http://127.0.0.1:5500/DailyDiction.html" style="background-color: #4CAF50; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">
-              🚀 Check Out Today's Word
+            <a href="https://daily-diction.onrender.com" style="background-color: #4CAF50; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">
+            Check Out Today's Word
             </a>
           </div>
           
