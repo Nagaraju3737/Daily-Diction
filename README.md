@@ -49,7 +49,7 @@ Whether you're a student, writer, or just a word nerd — DailyDiction keeps you
 
 ## Live Site
 
-Coming soon
+(https://daily-diction.onrender.com)
 
 ---
 
